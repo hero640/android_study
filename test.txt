@@ -1,0 +1,2 @@
+this is my first android project
+i use it to learn to how to use git command line tools
